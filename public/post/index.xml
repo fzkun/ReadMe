@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Fzkun Site</title>
+    <link>https://fzkun.github.io/ReadMe/public/post/</link>
+    <description>Recent content in Posts on Fzkun Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jun 2020 10:37:28 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fzkun.github.io/ReadMe/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://fzkun.github.io/ReadMe/public/post/test/</link>
       <pubDate>Mon, 08 Jun 2020 10:37:28 +0800</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://fzkun.github.io/ReadMe/public/post/test/</guid>
       <description>123</description>
     </item>
     
